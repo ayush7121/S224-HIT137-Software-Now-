@@ -64,6 +64,4 @@ This repository highlights the collaborative efforts of all four team members, w
 ## License
 The content of this repository is licensed under the MIT License, promoting open collaboration and sharing.
 
-## Contact Information
-For any inquiries or further information, feel free to reach out to Ayush Dutta at [Your Email].
 
