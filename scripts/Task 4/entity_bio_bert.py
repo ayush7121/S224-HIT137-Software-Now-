@@ -23,7 +23,7 @@ def extract_entities(text):
     return entities
 
 # Process the text file
-file_path = '/Users/nandukhanal/Documents/Classworks/Semester-1/Software Now/Assingment-2/Question-one/all_csv_file.txt'  # Replace with the actual path to your text file
+file_path = '/all_csv_file.txt' 
 
 with open(file_path, 'r', encoding='utf-8') as file:
     text = file.read()
