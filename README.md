@@ -59,7 +59,9 @@ Embark on a code-driven adventure through the mystical land of Pythoria, where p
 3. **Review Outputs**: All results will be saved in the `output/` directory for easy access.
 
 ## Contribution Log
+
 This repository highlights the collaborative efforts of all four team members, with contributions tracked via GitHub commits to ensure transparency and teamwork.
+
 
 ## License
 The content of this repository is licensed under the MIT License, promoting open collaboration and sharing.
