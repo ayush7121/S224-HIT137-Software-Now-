@@ -1,0 +1,8 @@
+Install the libraries(SpaCy – scispaCy – ‘en_core_sci_sm’/’en_ner_bc5cdr_md’).
+Install the libraries (Transformers (Hugging Face) - and any bio-medical model
+(BioBert) that can detect drugs, diseases, etc from the text)
+
+!pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz  
+# This command will download and install the SciSpaCy model, which is designed for processing scientific text.
+!pip install transformers 
+# The command !pip install transformers is typically used within Jupyter notebooks to install the transformers library by Hugging Face, which provides state-of-the-art machine learning models for natural language processing.
